@@ -1,1 +1,17 @@
-asd
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto, sans-serif;
+}
+
+.TitlePage {
+  text-align: center;
+  position: relative;
+  top: 100px;
+  background-color: black;
+  color: white;
+}
+
+a {
+  color: blue;
+}
