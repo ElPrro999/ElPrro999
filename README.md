@@ -4,5 +4,5 @@
 - 💞️ Me gustaria hostear mis paginas en Github.
 - 📫 Y me gustaria volverme un desarrollador de paginas web famoso.
 
-Puedes seguirme en twitch! twitch.tv/betaaypunto
-También en TikTok! tiktok.com/@elprro999
+Puedes seguirme en twitch! https://twitch.tv/betaaypunto
+También en TikTok! https://tiktok.com/@elprro999
